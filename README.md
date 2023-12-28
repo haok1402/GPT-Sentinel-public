@@ -1,6 +1,6 @@
 # GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
 
-Please note that this repository is no longer actively maintained. For the latest updates, please refer to our followup work:
+This repository is no longer actively maintained. Please refer to our latest followup work:
 
 - Paper: [Token Prediction as Implicit Classification to Identify LLM-Generated Text
 ](https://aclanthology.org/2023.emnlp-main.810/)
