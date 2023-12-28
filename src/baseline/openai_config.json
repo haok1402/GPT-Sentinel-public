@@ -1,0 +1,6 @@
+{
+    "InputDirectory": "./data/open-web-text-split",
+    "OutputDirectory": "./data/openai_classifier_output",
+    "InputFile": "test.jsonl",
+    "OutputFile": "web-openai.jsonl"
+}

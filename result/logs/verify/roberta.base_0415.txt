@@ -1,0 +1,14 @@
+$ python3 src/model/roberta/verify_against_ascii.py 
+Test: 100%|███████████████████████████████████████████████████| 116/116 [01:01<00:00,  1.89it/s, validAccuracy=92.1606%]
+
+$ python3 src/model/roberta/verify_against_strip.py 
+Test: 100%|███████████████████████████████████████████████████| 116/116 [01:02<00:00,  1.87it/s, validAccuracy=83.0280%]
+
+$ python3 src/model/roberta/verify_against_final.py 
+Test: 100%|███████████████████████████████████████████████████| 116/116 [01:02<00:00,  1.86it/s, validAccuracy=91.4871%]
+
+$ python3 src/model/roberta/verify_against_original.py 
+Test: 100%|███████████████████████████████████████████████████| 116/116 [01:03<00:00,  1.83it/s, validAccuracy=82.8529%]
+
+$ python3 src/model/roberta/verify_against_gpt2_output.py 
+Test: 100%|███████████████████████████████████████████████████| 157/157 [01:26<00:00,  1.81it/s, validAccuracy=46.5366%]

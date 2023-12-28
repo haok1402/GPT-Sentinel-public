@@ -1,0 +1,17 @@
+---
+Desc: Sample 4, TSNE projection
+UID: [urlsf_subset04]-[36988]-gpt
+---
+
+Nate@IND BimmerPost Supporting Vendor Rep 1812 Posts 11,237
+Join Date: Oct 2006 Location: Chicago
+19) iTrader: (
+Drives: BMW
+FluidMotorUnion "So We Made Some E9x Velocity Stacks.... "
+Quote: FluidMotorUnion Originally Posted by
+...And this came out.
+Made entirely from 6061-grade aluminum, this new velocity stack set for the E9x M3 was conceived, designed, cut out and assembled in-house at Fluid MotorUnion. Our system incorporates an Aquamist water-methanol injection system, which runs from the tank in the back to a specially-designed manifold that splits up the 6mm inlet to eight 4mm direct-injection nozzles, which are placed at the ends of the arms that stretch over each individual stack. The tubing from the manifold to the nozzles, just like on the DCM3, are fed through specific channels in the arms themselves. When alls said and done, it looks like the grim reapers put his special touch on this system.
+You may notice a couple nozzles are missing. Were getting them ASAP, but we didnt want to delay this entire post (and all the picture-taking behind it) just because of a couple small nozzles. If youll be at Supercar Saturdays this coming week (and if not, I suggest you come see what its all about), well be displaying the final product there, as well.
+Wed like to think it turned out well. Only time will tell, however. We still have to mount the AN fittings to the catch can and finish routing that system, too. After we get the nozzles and remainder of the catch can installed, were going to try and get some videos of the sound, and perhaps a dyno run or two. Its all on the way.
+...Then the Grim Reaper started messing around with our CAD files......And this came out.Made entirely from 6061-grade aluminum, this new velocity stack set for the E9x M3 was conceived, designed, cut out and assembled in-house at Fluid MotorUnion. Our system incorporates an Aquamist water-methanol injection system, which runs from the tank in the back to a specially-designed manifold that splits up the 6mm inlet to eight 4mm direct-injection nozzles, which are placed at the ends of the arms that stretch over each individual stack. The tubing from the manifold to the nozzles, just like on the DCM3, are fed through specific channels in the arms themselves. When alls said and done, it looks like the grim reapers put his special touch on this system.You may notice a couple nozzles are missing. Were getting them ASAP, but we didnt want to delay this entire post (and all the picture-taking behind it) just because of a couple small nozzles. If youll be at Supercar Saturdays this coming week (and if not, I suggest you come see what its all about), well be displaying the final product there, as well.Wed like to think it turned out well. Only time will tell, however. We still have to mount the AN fittings to the catch can and finish routing that system, too. After we get the nozzles and remainder of the catch can installed, were going to try and get some videos of the sound, and perhaps a dyno run or two. Its all on the way. Saw this on another site
+866-963-4520  FACEBOOK  INSTAGRAM  FLICKR __________________

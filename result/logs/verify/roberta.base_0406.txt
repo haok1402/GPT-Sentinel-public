@@ -1,0 +1,8 @@
+$ python3 src/model/roberta/verify_against_ascii.py 
+Test: 100%|███████████| 116/116 [01:03<00:00,  1.83it/s, validAccuracy=89.6282%]
+
+$ python3 src/model/roberta/verify_against_strip.py 
+Test: 100%|███████████| 116/116 [01:03<00:00,  1.84it/s, validAccuracy=74.5959%]
+
+$ python3 src/model/roberta/verify_against_final.py 
+Test: 100%|███████████| 116/116 [01:03<00:00,  1.82it/s, validAccuracy=62.3249%]

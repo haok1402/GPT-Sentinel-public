@@ -1,0 +1,6 @@
+{
+    "InputDirectory": "./data/gpt2-output",
+    "OutputDirectory": "./data/zerogpt_classifier_output",
+    "InputFile": "xl-1542M.test.jsonl",
+    "OutputFile": "gpt2-output-gpt-zerogpt.jsonl"
+}

@@ -1,0 +1,14 @@
+{
+	"gpt-3.5-turbo": {
+		"dataset": {
+			"webFolder": "data/OpenWebText",
+			"gptFolder": "data/OpenGPTText",
+			"subsets": [
+				"urlsf_subset00",
+				"urlsf_subset02",
+				"urlsf_subset04",
+				"urlsf_subset09"
+			]
+		}
+	}
+}

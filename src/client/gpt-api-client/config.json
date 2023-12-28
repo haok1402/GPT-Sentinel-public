@@ -1,0 +1,12 @@
+{
+    "InputDirectory": "./data/open-web-text",
+    "OutputDirectory": "./data/open-gpt-text",
+    "ResponseModel": "gpt-3.5-turbo",
+    "QuestionPrompt": "Rephrase the following paragraph by paragraph:",
+    "InputSubsets": [
+        "urlsf_subset01",
+        "urlsf_subset03",
+        "urlsf_subset05",
+        "urlsf_subset06"
+    ]
+}

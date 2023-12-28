@@ -1,0 +1,26 @@
+# IDE Settings
+/.idea/
+/.vscode/
+
+# Cached Files
+*.DS_Store
+**/__pycache__/
+**/wandb/
+**/storage/
+result/cache/*.json
+
+# Dataset
+*.jsonl
+*.log
+
+# Weight Files
+*.pt
+*.pickle
+
+# Sensitive Files
+**/secret.json
+**/client_state.json
+**/cookies.pkl
+
+# Log Files
+*.log
