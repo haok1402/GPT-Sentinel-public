@@ -1,10 +1,14 @@
-> We are cleaning up our existing code base and souce code / dataset will be released here.
+# GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
 
-# GPT-Sentinel: Distinguishing Human and ChatGPT Generating Content
+Please note that this repository is no longer actively maintained. For the latest updates, please refer to the following:
+
+- Paper: [Token Prediction as Implicit Classification to Identify LLM-Generated Text
+](https://aclanthology.org/2023.emnlp-main.810/)
+- Codebase: [T5-Sentinel-public](https://github.com/MarkChenYutian/T5-Sentinel-public)
+
+## Overview
 
 > :page_facing_up: [Link to Paper (arXiv)](https://arxiv.org/abs/2305.07969) | :floppy_disk: [Link to Dataset](https://drive.google.com/drive/folders/1Vnr-_nJWT4VXE-1wK38YSsCD4GcP6mk_?usp=share_link) | :package: [Link to Checkpoint](https://drive.google.com/drive/folders/17IPZUaJ3Dd2LzsS8ezkelCfs5dMDOluD?usp=share_link)
-
-## Introduction
 
 This repository is the codebase for paper *GPT-Sentinel: Distinguishing Human and ChatGPT Generating Content*.
 
